@@ -18,6 +18,8 @@ La literatura digital és una forma d'expressió literària que utilitza mitjans
 **Hibridació de mitjans i tecnologies:**
 La literatura digital combina elements textuals amb recursos multimèdia, com ara imatges, sons i animacions, creant una experiència interactiva i immersiva per al lector. Aquesta hibridació permet explorar noves formes narratives i expandir els límits de la literatura tradicional.
 
+![Imatge-Scriptorium](https://github.com/user-attachments/assets/5f3c2f4d-7948-4241-87f8-95728dd7ed27)
+
 **Relació amb els principis de Manovich:**
 Segons els principis de Lev Manovich, la literatura digital exemplifica la fusió de diferents mitjans en un entorn digital, reflectint la tendència contemporània cap a la integració de diverses formes d'expressió artística en una única plataforma.
 
@@ -33,6 +35,8 @@ El CaixaForum València va acollir recentment una exposició que explora la rela
 
 **Hibridació de mitjans i tecnologies:**
 Aquesta exposició presenta obres que combinen tècniques tradicionals amb tecnologies digitals, oferint una perspectiva contemporània sobre la interacció entre l'art i la natura. La integració de mitjans digitals en les obres permet als artistes explorar noves formes d'expressió i connectar amb el públic d'una manera innovadora.
+
+![Imatge-Scriptorium (1)](https://github.com/user-attachments/assets/6bce2842-4d23-4e09-a6f5-bae4eba4515e)
 
 **Relació amb els principis de Manovich:**
 L'exposició exemplifica la hibridació de mitjans en l'art contemporani, un concepte central en els estudis de Manovich sobre la fusió de diferents formes artístiques en l'era digital.
