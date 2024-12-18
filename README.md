@@ -36,7 +36,8 @@ El CaixaForum València va acollir recentment una exposició que explora la rela
 **Hibridació de mitjans i tecnologies:**
 Aquesta exposició presenta obres que combinen tècniques tradicionals amb tecnologies digitals, oferint una perspectiva contemporània sobre la interacció entre l'art i la natura. La integració de mitjans digitals en les obres permet als artistes explorar noves formes d'expressió i connectar amb el públic d'una manera innovadora.
 
-![Imatge-Scriptorium (1)](https://github.com/user-attachments/assets/6bce2842-4d23-4e09-a6f5-bae4eba4515e)
+![67471225da02a (1)](https://github.com/user-attachments/assets/a6f7a17d-2b66-4507-9342-662eba7c9176)
+![art-natura-caixaforum-1024x576](https://github.com/user-attachments/assets/84c0d548-ca2f-415a-979f-bbf39860f6d3)
 
 **Relació amb els principis de Manovich:**
 L'exposició exemplifica la hibridació de mitjans en l'art contemporani, un concepte central en els estudis de Manovich sobre la fusió de diferents formes artístiques en l'era digital.
